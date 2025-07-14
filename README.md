@@ -1,5 +1,5 @@
-python fx5u_cmd.py set-theta 90
-python fx5u_cmd.py set-phi 45
-python fx5u_cmd.py set-both 90 45
-python fx5u_cmd.py read-theta
-python fx5u_cmd.py read-phi
+python set_angle.py set-theta 90
+python set_angle.py set-phi 45
+python set_angle.py set-both 90 45
+python set_angle.py read-theta
+python set_angle.py read-phi
